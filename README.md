@@ -22,7 +22,7 @@ AutoBiz is a business automation system that automates repetitive tasks like col
 ## System Overview
 A workflow triggers actions automatically:
 Customer fills form → Data stored → Email sent → Team notified.
-
+![System Flow](diagrams/diagram_1.jpg)
 ## Project Status
 - **Current week:** Week 1
 - **Completed:** n8n installation, first workflow, workflow diagram
